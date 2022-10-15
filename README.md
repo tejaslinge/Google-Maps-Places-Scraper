@@ -2,7 +2,7 @@
 
 I've seen a lot of job posts on UpWork / Fiverr which require scraping places from Google Maps given a PIN / ZIP Code or an address. For example "Pizza Places in New York" or "Construction Companies for Postal Code {Any London Postal Code}". 
 
-To make things easier for people, here's an app which you can use to easily scrape places from Google Maps.
+To make things easier, here's an app which you can use to easily scrape places from Google Maps.
 
 Steps to setting-up this app:
 
